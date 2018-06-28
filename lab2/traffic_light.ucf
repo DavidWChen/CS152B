@@ -1,0 +1,17 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clock" LOC = AG18;
+NET "reset" LOC = J19;
+
+NET "walk" LOC = G7;
+NET "sensor" LOC = G15;
+
+NET "main_r" LOC = AG8;
+NET "main_y" LOC = AH8;
+NET "main_g" LOC = AH9;
+NET "side_r" LOC = AG10;
+NET "side_y" LOC = AH10;
+NET "side_g" LOC = AG11;
+NET "clk1Hz" LOC = AF11;
+NET "walk_reg" LOC = AE11;
